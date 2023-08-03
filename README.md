@@ -1,4 +1,4 @@
-# NLPfinalproj
+# Unraveling the Data Science Revolution - NLP Final Project
 
 This repository contains materials for the MSCA 32018 Natural Language Processing and Cognitive Computing Project at the University of Chicago.
 
@@ -9,3 +9,11 @@ The objective of this final project is to identify what types of tasks and jobs 
 
 ## Data
 We have a data of 200k news articles about Data Science and AI published since 2020. 
+
+## How to Navigate This Repository
+In this repo you will find two folders: sample and all_data.
+- `sample` contains coding done on a subset of news articles as feasibility testing, as well as some sample data used.
+- `all_data` contains coding done on all news articles, including cleaning, feature engineering, analysis, and modeling. Majority of coding is conducted on Google Cloud Platforms (GCP).
+- You can also check out the presentation deck at `MSCA32018_Final_Presentation.pdf`.
+
+Please don't hesitate to ask questions.
